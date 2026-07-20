@@ -23,6 +23,7 @@ The specific objectives are to:
 1.Explore the employee dataset using Exploratory Data Analysis (EDA). 2.Identify the key factors associated with employee attrition. 3.Clean and prepare the dataset for machine learning. 4.Build a classification model to predict employee attrition. 4.Evaluate the performance of the prediction model using suitable evaluation metrics. 5.Identify the most important variables influencing employee turnover. 6.#Provide recommendations that can help improve employee retention
 
 Research Questions
+
 The study seeks to answer the following questions:
 
 1.What factors are associated with employee attrition? 2.Is there a relationship between employee characteristics (such as age, income, job role, overtime, and job satisfaction) and attrition? 3.Which employee attributes have the greatest influence on the likelihood of leaving the company? 4.How accurately can a classification model predict employee attrition? 5.What recommendations can be made to help organizations reduce employee turnover and improve employee retentio
